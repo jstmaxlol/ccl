@@ -9,3 +9,5 @@
 - `ccl.reset()`: Resets **all** colors
 - `ccl.style("bold")`: Applies a **st****yle*** to the text.
 
+# DeepWiki
+[DeepWiki indexed link](https://deepwiki.com/jstmaxlol/ccl)
